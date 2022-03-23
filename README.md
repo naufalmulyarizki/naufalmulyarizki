@@ -2,9 +2,9 @@ Hi 👋, I'm Sleepy4k
 A passionate frontend and backend developer from Indonesia
 sleepy4k
 
-<center>
-    <img src="assets/images/grin-logo.png">
-</center>
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
