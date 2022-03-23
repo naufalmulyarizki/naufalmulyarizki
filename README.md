@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Salvatrucha</h1>
-<h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
+<h3 align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
