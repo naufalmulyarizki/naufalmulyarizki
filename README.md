@@ -2,7 +2,7 @@ Hi 👋, I'm Sleepy4k
 A passionate frontend and backend developer from Indonesia
 sleepy4k
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
 
 sleepy4k
 
