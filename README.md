@@ -2,6 +2,10 @@ Hi 👋, I'm Sleepy4k
 A passionate frontend and backend developer from Indonesia
 sleepy4k
 
+<center>
+    <img src="assets/images/grin-logo.png">
+</center>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 sleepy4k
