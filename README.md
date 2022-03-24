@@ -19,7 +19,9 @@
 
 📄 Platform projek Fivem dan website
 
-<p align="left">
+<h1 align="center"> Sosial Media </h1>
+
+<p align="center">
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin4kk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCWqvg50dXfXN6p3xEcfzsTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamin4k" height="30" width="40" /></a>
 <a href="https://discord.gg/Naufal#8714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Naufal#8714" height="30" width="40" /></a>
