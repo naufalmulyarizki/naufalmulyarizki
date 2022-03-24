@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k" /></a> </p>
 
-sleepy4k
-
 🔭 Saya adalah management komunitas fivem Central Indonesia
 
 🌱 Sedang mempelajari program lua,js dan html
