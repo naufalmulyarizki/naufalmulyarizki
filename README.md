@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalmulyarizki&label=Profile%20views&color=0e75b6&style=flat" alt="naufalmulyarizki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalmulyarizki&theme=onedark" alt="naufalmulyarizki" /></a> </p>
 
 🔭 Saya adalah management komunitas fivem Central Indonesia
 
