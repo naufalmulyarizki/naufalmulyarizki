@@ -19,7 +19,7 @@
 
 📄 Platform projek Fivem dan website
 
-<h1 align="center"> Sosial Media </h1>
+<p align="center"> Sosial Media </p>
 
 <p align="center">
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin4kk" height="30" width="40" /></a>
