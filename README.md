@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Salvatrucha</h1> 
-<h3 align="center"> Sedang belajar menjadi yang terbaik </h3>
+<h3 align="center"> Sedang Belajar Menjadi Yang Terbaik </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalmulyarizki&label=Profile%20views&color=0e75b6&style=flat" alt="naufalmulyarizki" /> </p>
 
@@ -15,7 +15,7 @@ sleepy4k
 
 🤝 Pemain fivem roleplay dan FFA
 
-👨‍💻 Semua project ku ada disini http://http://website.sahabatnaufal.my.id//
+👨‍💻 Semua project ku ada disini http://website.sahabatnaufal.my.id/
 
 📫 Email : naufalmulyarizki09@gmail.com
 
