@@ -7,19 +7,19 @@
 
 <br> 
 
-🔭 Saya adalah management komunitas fivem Central Indonesia
+🔭 Saya adalah management komunitas fivem Central Indonesia.
 
-🌱 Sedang mempelajari program lua,js dan html
+🌱 Sedang mempelajari program lua,js dan html.
 
-👯 Hanya orang biasa
+👯 Hanya orang biasa.
 
-🤝 Pemain fivem roleplay dan FFA
+🤝 Pemain fivem roleplay dan FFA.
 
-👨‍💻 Semua project ku ada disini http://website.sahabatnaufal.my.id/
+👨‍💻 Semua project ku ada disini http://website.sahabatnaufal.my.id/.
 
-📫 Email : naufalmulyarizki09@gmail.com
+📫 Email : naufalmulyarizki09@gmail.com.
 
-📄 Platform projek Fivem dan website
+📄 Platform projek Fivem dan website.
 
 <p align="center"><b>Sosial Media</b></p>
 
