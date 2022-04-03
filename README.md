@@ -49,3 +49,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalmulyarizki&" alt="naufalmulyarizki" /></p>
+ 
+ ### ✉️ Contact Me
+
+- [Discord](https://discord.com/users/462987629894565899) / Naufal#8714
