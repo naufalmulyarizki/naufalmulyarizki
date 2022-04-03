@@ -51,5 +51,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalmulyarizki&" alt="naufalmulyarizki" /></p>
 
  ### ✉️ Contact Me
+ 
+ ### Discord Status
+<a href="https://discord.com/users/462987629894565899">
+<img height="80px" src="https://cdn.discordapp.com/attachments/840490697727016990/959997339718795294/unknown.png" />
+</a>
 
 - [Discord](https://discord.com/users/462987629894565899) / Naufal#8714
