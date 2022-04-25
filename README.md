@@ -9,7 +9,7 @@
 
 🔭 Saya adalah management komunitas fivem Central Indonesia.
 
-🌱 Sedang mempelajari program lua,js dan html.
+🌱 Sedang mempelajari program lua,js,html dan C++.
 
 👯 Hanya orang biasa.
 
