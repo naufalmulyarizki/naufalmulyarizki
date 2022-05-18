@@ -49,7 +49,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalmulyarizki&" alt="naufalmulyarizki" /></p>
  
-Thanks for stopping by! 😁
 
 ⭐️ From [naufalmulyarizki](https://github.com/naufalmulyarizki)
 
