@@ -42,7 +42,7 @@
 
 <br>
  
- ### Interesting stats
+ ## Interesting stats
 
 ![naufalmulyarizki's stats](https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true)
 
