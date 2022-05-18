@@ -23,13 +23,13 @@
 
 <p align="center"><b><u>Sosial Media</u></b></p>
 
-<p align="center">
+
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naufal#8714" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCWqvg50dXfXN6p3xEcfzsTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Naufal#8714" height="30" width="40" /></a>
 <a href="https://discord.gg/kVkHtH3RgT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Naufal#8714" height="30" width="40" /></a>
 <a href="http://website.sahabatnaufal.my.id/" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" alt="Naufal#8714" height="30" width="40" /></a>
 <a href="https://twitter.com/NMulyarizki" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Naufal#8714" height="30" width="40" /></a> 
-</p>
+
 
 <br> 
 
