@@ -8,19 +8,19 @@
 
 <br> 
 
-🔭 Saya Adalah Developer Komunitas Fivem Central Indonesia.
+- 🔭 Saya Adalah Developer Komunitas Fivem Central Indonesia.
 
-🌱 Sedang Mempelajari Program Lua,JS,HTML dan C++.
+- 🌱 Sedang Mempelajari Program Lua,JS,HTML dan C++.
 
-👯 Berpendidikan di Universitas Pancasila.
+- 👯 Berpendidikan di Universitas Pancasila.
 
-🤝 Pemain fivem roleplay dan FFA.
+- 🤝 Pemain fivem roleplay dan FFA.
 
-👨‍💻 Semua project ku ada disini http://website.sahabatnaufal.my.id/.
+- 👨‍💻 Semua project ku ada disini http://website.sahabatnaufal.my.id/.
 
-📫 Email : naufalmulyarizki09@gmail.com.
+- 📫 Email : naufalmulyarizki09@gmail.com.
 
-📄 Platform projek Fivem dan website.
+- 📄 Platform projek Fivem dan website.
 
 
 <h2 align="center">Social Media</h1> 
