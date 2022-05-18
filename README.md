@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">Social Media</h1> 
-
+<br> 
 <p align="center">
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naufal#8714" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCWqvg50dXfXN6p3xEcfzsTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Naufal#8714" height="30" width="40" /></a>
