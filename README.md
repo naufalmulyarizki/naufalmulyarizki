@@ -40,11 +40,12 @@
 
 <br> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalmulyarizki&show_icons=true&locale=en&layout=compact" alt="naufalmulyarizki" /></p>
+<a href="https://discord.com/users/462987629894565899"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right"/></a>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true&locale=en" alt="naufalmulyarizki" /></p>
+<a href="https://github.com/naufalmulyarizki"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+
 
 <br>
 
