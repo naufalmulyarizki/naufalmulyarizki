@@ -22,7 +22,6 @@
 
 📄 Platform projek Fivem dan website.
 
-<br>
 
 <h2 align="center">Social Media</h1> 
 <br> 
