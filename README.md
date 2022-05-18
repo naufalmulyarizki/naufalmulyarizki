@@ -40,7 +40,7 @@
 
 <br> 
 
-<a href="https://discord.com/users/462987629894565899"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right"/></a>
+<a href="https://discord.com/users/462987629894565899"><img src="https://lanyard-profile-readme.vercel.app/api/462987629894565899?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right"/></a>
 
 <br>
 
