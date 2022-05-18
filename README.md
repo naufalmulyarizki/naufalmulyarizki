@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Salvatrucha</h1> 
+<h2 align="center"> <b><u>Welcome to my github!👋</u></b></h3>
 <h3 align="center"> <b><u>Sedang Belajar Menjadi Yang Terbaik</u></b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naufalmulyarizki&label=Profile%20views&color=0e75b6&style=flat" alt="naufalmulyarizki" /> </p>
@@ -7,11 +8,11 @@
 
 <br> 
 
-🔭 Saya adalah management komunitas fivem Central Indonesia.
+🔭 Saya Adalah Developer Komunitas Fivem Central Indonesia.
 
-🌱 Sedang mempelajari program lua,js,html dan C++.
+🌱 Sedang Mempelajari Program Lua,JS,HTML dan C++.
 
-👯 Hanya orang biasa.
+👯 Berpendidikan di Universitas Pancasila.
 
 🤝 Pemain fivem roleplay dan FFA.
 
@@ -20,6 +21,15 @@
 📫 Email : naufalmulyarizki09@gmail.com.
 
 📄 Platform projek Fivem dan website.
+
+
+### Interesting stats
+
+![naufalmulyarizki's stats](https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true)
+
+Thanks for stopping by! 😁
+
+⭐️ From [naufalmulyarizki](https://github.com/naufalmulyarizki)
 
 <p align="center"><b><u>Sosial Media</u></b></p>
 
