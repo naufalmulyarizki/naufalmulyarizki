@@ -23,7 +23,7 @@
 📄 Platform projek Fivem dan website.
 
 
-## Sosial Media
+<h1 align="center">Social Media</h1> 
 
 <p align="center">
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naufal#8714" height="30" width="40" /></a>
