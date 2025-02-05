@@ -54,7 +54,7 @@
  
  ### Discord Status
 <a href="https://discord.com/users/462987629894565899">
-<img height="80px" src="https://cdn.discordapp.com/attachments/840490697727016990/959997339718795294/unknown.png" />
+<img height="80px" src="https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/images/discord_logo.png" />
 </a>
 
 - [Discord](https://discord.com/users/462987629894565899) / Naufal#8714
