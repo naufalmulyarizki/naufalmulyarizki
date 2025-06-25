@@ -22,7 +22,7 @@
 - 📄 Platform projek Fivem RedM dan website.
 
 
-<h2 align="center">Social Media</h1> 
+### 🛠️ Social Media
 <br> 
 <p align="center">
 <a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naufal#8714" height="30" width="40" /></a>
@@ -31,33 +31,28 @@
 <a href="https://twitter.com/NMulyarizki" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Naufal#8714" height="30" width="40" /></a> 
 </p> 
 
-<h2 align="center">Tools dan Bahasa Pemograman Yang Saya Pakai</h1> 
-<br>
+### 🛠️ Languages and Tools
 
-<p align="center"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://r2.fivemanage.com/wuFyfLefICmpIY8KLSe7p/lua.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://r2.fivemanage.com/wuFyfLefICmpIY8KLSe7p/python.png" alt="mysql" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,py,nodejs,html,css,react,githubvscode&perline=9" alt="My Skills" />
+</p>
 
 <br>
  
-<h2 align="center">Github Stats</h1> 
+### 📈 GitHub Stats
 
-![naufalmulyarizki's stats](https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true&theme=radical" alt="naufalfx stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalmulyarizki&layout=compact&theme=radical" alt="naufalfx languages" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalmulyarizki&" alt="naufalmulyarizki" /></p>
- 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
- 
-⭐️ From [naufalmulyarizki](https://github.com/naufalmulyarizki)
+### ✉️ Contact Me
 
- ### ✉️ Contact Me
- 
- ### Discord Status
-<a href="https://discord.com/users/462987629894565899">
-<img height="80px" src="https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/images/discord_logo.png" />
-</a>
+### 🔗 Connect with Me
 
-- [Discord](https://discord.com/users/462987629894565899) / Naufal#8714
+<p align="left">
+  <a href="https://discord.com/users/462987629894565899" target="blank"><img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+  <a href="https://t.me/naufal" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+  <a href="mailto:naufalmulyarizki09@gmail.com"><img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
