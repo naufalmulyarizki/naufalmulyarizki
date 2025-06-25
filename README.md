@@ -46,9 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalmulyarizki&layout=compact&theme=radical" alt="naufalfx languages" />
 </p>
 
-
-### ✉️ Contact Me
-
 ### 🔗 Connect with Me
 
 <p align="left">
