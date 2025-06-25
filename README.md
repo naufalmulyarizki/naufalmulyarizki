@@ -7,6 +7,8 @@
 
 <br> 
 
+### 🚀 About Me
+
 - 🔭 Saya Adalah Developer FiveM, RedM.
 
 - 🌱 Sedang Mempelajari Program Lua,JS,HTML dan C++.
@@ -23,13 +25,25 @@
 
 
 ### 🛠️ Social Media
-<br> 
+
 <p align="center">
-<a href="https://instagram.com/naufal.salvatrucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naufal#8714" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWqvg50dXfXN6p3xEcfzsTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Naufal#8714" height="30" width="40" /></a>
-<a href="https://discord.gg/kVkHtH3RgT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Naufal#8714" height="30" width="40" /></a>
-<a href="https://twitter.com/NMulyarizki" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Naufal#8714" height="30" width="40" /></a> 
-</p> 
+  <a href="https://discord.com/users/462987629894565899" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://github.com/naufalmulyarizki" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:naufalmulyarizki09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+    <a href="https://instagram.com/aryo.salvatrucha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>
+  </a>
+    <a href="https://twitter.com/NMulyarizki" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+  </a>
+</p>
 
 ### 🛠️ Languages and Tools
 
@@ -45,6 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naufalmulyarizki&show_icons=true&theme=radical" alt="naufalfx stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalmulyarizki&layout=compact&theme=radical" alt="naufalfx languages" />
 </p>
+
 
 ### 🔗 Connect with Me
 
