@@ -60,6 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalmulyarizki&layout=compact&theme=radical" alt="naufalfx languages" />
 </p>
 
+### 🔥 My Projects
+
+- 🔧 [Custom Anim Radio](https://github.com/naufalmulyarizki/naufal-customanimradio): UI untuk memilih anim radio secara realtime
+- 🤖 [Kantin Federal](https://github.com/naufalmulyarizki/naufal-kantinfederal): Makanan di kantin federal, bisa makan sendiri ketika kamu dipenjara
 
 ### 🔗 Connect with Me
 
