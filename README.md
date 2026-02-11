@@ -72,3 +72,5 @@
   <a href="https://t.me/naufal" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <a href="mailto:naufalmulyarizki09@gmail.com"><img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
+
+[<img align="right" width="390" alt="🦑" src="/medias.svg"/>](#)
