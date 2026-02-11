@@ -72,3 +72,5 @@
   <a href="https://t.me/naufal" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <a href="mailto:naufalmulyarizki09@gmail.com"><img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
+
+![Metrics](https://metrics.lecoq.io/naufalmulyarizki?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
