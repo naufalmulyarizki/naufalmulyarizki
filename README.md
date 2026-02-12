@@ -73,4 +73,7 @@
   <a href="mailto:naufalmulyarizki09@gmail.com"><img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
+[<img align="left" width="390" alt="🦑" src="/general.svg"/>](#)
 [<img align="right" width="390" alt="🦑" src="/medias.svg"/>](#)
+[<img align="right" width="390"  alt="🦑" src="https://github.com/kevinalfito69/kevinalfito69/blob/main/achievements.svg"/>](#)
+[<img align="right" width="390" alt="🦑" src="/sponsors.svg">]
