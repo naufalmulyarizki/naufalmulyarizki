@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
+# Each card is rendered twice so the README can switch with the GitHub theme:
+#   *-light.svg -> shown in GitHub light mode (black card, white text)
+#   *-dark.svg  -> shown in GitHub dark mode  (white card, black text)
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,11 +16,11 @@ jobs:
       contents: write
     steps:
 
-      - name: General
+      - name: General (light mode)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: metrics-general-light.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
           base_indepth: yes
@@ -34,40 +37,81 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+          extras_css: |
+            foreignObject > div { background: #000; border: 1px solid #000; border-radius: 6px; filter: grayscale(1); }
+            svg, h2, h3, .field, .activity .issue { color: #fff !important; }
+            h2, h3 { font-weight: 600 !important; }
+            h2 svg, h3 svg, .field svg { fill: #fff !important; }
+            .label { background-color: #ffffff1f !important; color: #fff !important; }
+            .label .label-right { background-color: #ffffff14 !important; }
+            path[fill="#ebedf0"] { fill: #262626; }
+            path[fill="#9be9a8"] { fill: #5c5c5c; }
+            path[fill="#40c463"] { fill: #8f8f8f; }
+            path[fill="#30a14e"] { fill: #c4c4c4; }
+            path[fill="#216e39"] { fill: #ffffff; }
 
-      - name: Sponsors
+      - name: General (dark mode)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: sponsors.svg
+          filename: metrics-general-dark.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
+          base: activity, community, repositories
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, text, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
+          extras_css: |
+            foreignObject > div { background: #fff; border: 1px solid #fff; border-radius: 6px; filter: grayscale(1); }
+            svg, h2, h3, .field, .activity .issue { color: #000 !important; }
+            h2, h3 { font-weight: 600 !important; }
+            h2 svg, h3 svg, .field svg { fill: #000 !important; }
+            .label { background-color: #0000001a !important; color: #000 !important; }
+            .label .label-right { background-color: #0000000d !important; }
+            path[fill="#ebedf0"] { fill: #e6e6e6; }
+            path[fill="#9be9a8"] { fill: #bdbdbd; }
+            path[fill="#40c463"] { fill: #8a8a8a; }
+            path[fill="#30a14e"] { fill: #4d4d4d; }
+            path[fill="#216e39"] { fill: #000000; }
 
-      - name: Achievements
+      - name: Achievements (light mode)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: metrics-achievements-light.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          extras_css: |
+            foreignObject > div { background: #000; border: 1px solid #000; border-radius: 6px; filter: grayscale(1); }
+            svg, h2, h3, .field { color: #fff !important; }
+            h2, h3 { font-weight: 600 !important; }
+            h2 svg, h3 svg, .field svg { fill: #fff !important; }
 
-      - name: Medias
+      - name: Achievements (dark mode)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: metrics-achievements-dark.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          token: NOT_NEEDED
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: kevinalfito
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+          extras_css: |
+            foreignObject > div { background: #fff; border: 1px solid #fff; border-radius: 6px; filter: grayscale(1); }
+            svg, h2, h3, .field { color: #000 !important; }
+            h2, h3 { font-weight: 600 !important; }
+            h2 svg, h3 svg, .field svg { fill: #000 !important; }
