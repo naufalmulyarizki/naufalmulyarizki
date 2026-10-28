@@ -65,3 +65,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer" alt="" width="100%" />
 </p>
+
+[<img align="left" width="390" alt="🦑" src="/general.svg"/>](#)
+[<img align="right" width="390" alt="🦑" src="/medias.svg"/>](#)
+[<img align="right" width="390"  alt="🦑" src="https://github.com/kevinalfito69/kevinalfito69/blob/main/achievements.svg"/>](#)
+[<img align="right" width="390" alt="🦑" src="/sponsors.svg">]
